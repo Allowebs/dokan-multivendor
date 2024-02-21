@@ -1,8 +1,8 @@
 {
-  "name": "dokan",
+  "name": "allowebs-marketplace",
   "version": "3.9.9",
-  "description": "A WordPress marketplace plugin",
-  "author": "weDevs",
+  "description": "passionnés par la mise en valeur du savoir-faire.",
+  "author": "allowebs",
   "license": "GPL",
   "private": true,
   "scripts": {

@@ -1,6 +1,6 @@
 {
-  "name": "wedevs/dokan",
-  "description": "An e-commerce marketplace plugin for WordPress.",
+  "name": "allowebs/marketplace",
+  "description": "passionnés par la mise en valeur du savoir-faire.",
   "type": "wordpress-plugin",
   "license": "GPL2",
   "authors": [
